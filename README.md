@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0a2dde25-b0a1-4e87-bc4d-fbd1a6440c05)<h1 align="center">Hi 👋, I'm K MAYANK RAO</h1>
+Hi 👋, I'm K MAYANK RAO</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
